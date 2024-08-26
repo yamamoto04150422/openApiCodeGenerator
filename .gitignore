@@ -1,0 +1,31 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+out/
+dist/
+build/
+
+# Environment files
+.env
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Coverage reports
+coverage/
+
+# Other
+*.tmp
+*.swp
+
+# Ignore specific files and directories in backend
+backend/
