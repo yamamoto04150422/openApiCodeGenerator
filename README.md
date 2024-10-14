@@ -71,3 +71,7 @@ cd /path/to/your/repo/backend
 git add src/main/java/com/example/client
 git commit -m "Add generated Java client code"
 ```
+## 補足 関連
+[Markdown記法 チートシート](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
+[OpenAPI Generatorを用いたクライアントコードの自動生成](https://heartbeats.jp/hbblog/2023/05/openapi.html)
+[OpenAPI generatorを試してみる](https://qiita.com/amuyikam/items/e8a45daae59c68be0fc8)
